@@ -1,0 +1,7 @@
+langchain
+chromadb
+streamlit
+openai
+tiktoken
+sentence-transformers
+pdfplumber
